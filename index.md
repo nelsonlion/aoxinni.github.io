@@ -2,6 +2,10 @@
 
 Welcome! My name is Aoxin(Nelson) Ni and I am a Ph.D. candidate of Computer Engineering in the University of Texas
 
+Tel: 607-232-8295
+
+Email: axn190066@utdallas.edu
+
 
 ### Research Interests
 Signal and Image Processing
