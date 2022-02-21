@@ -1,6 +1,6 @@
 ## Aoxin Ni
 
-![Avatar|300x300](https://github.com/AoxinNi/aoxinni.github.io/blob/main/image/avatar.png)
+![Avatar]({{https://github.com/AoxinNi/aoxinni.github.io/blob/main/image/avatar.png}}=250x)
 
 Welcome! My name is Aoxin(Nelson) Ni and I am a Ph.D. candidate of Computer Engineering in the University of Texas
 
